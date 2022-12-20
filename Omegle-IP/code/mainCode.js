@@ -1,3 +1,16 @@
+const art = `
+   C R E A T E D  B Y
+
+III M   M EEEE  OOO  N   N
+ I  MM MM E    O   O NN  N
+ I  M M M EEE  O   O N N N
+ I  M   M E    O   O N  NN
+III M   M EEEE  OOO  N   N
+
+   github.com/ImEonXD                                                               
+          `;
+      console.log(art);
+
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
 
